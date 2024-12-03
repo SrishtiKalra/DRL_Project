@@ -1,0 +1,3 @@
+[12/01/2024 14:54:04.684 evaluate2.py: 40] Model: DQN_ep5, Stock: ^GSPC_2014, Initial Balance: $50000
+[12/01/2024 14:54:04.710 saving_utils.py:256] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[12/01/2024 14:54:04.770 saving_utils.py:256] Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
